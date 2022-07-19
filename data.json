@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Macbook Pro",
+        "precio": "Q. 24,999.99",
+        "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0101/2522/products/LD0005898675_1_0005899368_1600x.jpg?v=1637768111"
+    },
+    {
+        "id": 2,
+        "title": "ROG Strix SCAR 17 SE (2022)",
+        "precio": "Q. 15,799.99",
+        "thumbnailUrl": "https://dlcdnwebimgs.asus.com/gain/FC966DB9-E292-4BEF-88D8-4F32570C8AB2/w717/h525/w270"
+    },
+    {
+        "id": 3,
+        "title": "Inspiron 15 7000 GAMER",
+        "precio": "Q. 17,499.99",
+        "thumbnailUrl": "https://i.dell.com/sites/imagecontent/products/PublishingImages/inspiron-15-7567-laptop/Inspiron_15_7000_Firelord_1280x720.jpg"
+    }
+]
